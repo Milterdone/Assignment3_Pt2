@@ -33,7 +33,7 @@ Functions: transfer, transferFrom, allowance
     npm install --save-dev hardhat
 4. Launch tests (all):
     ```bash
-    npx hadhat test
+    npx hardhat test
     ```
 
 ## Demo
